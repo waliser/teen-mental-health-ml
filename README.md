@@ -1,2 +1,2 @@
 # teen-mental-health-ml
-Finding the correlation between teens mental health.E g depression anxiety, stress, to social media hours and addiction level.
+Exploring correlations between teen depression, anxiety, and stress against social media usage and addiction levels. Trains a binary classifier to predict depression risk using SMOTETomek resampling and Optuna tuning on a heavily imbalanced dataset (2.6% positive rate).
